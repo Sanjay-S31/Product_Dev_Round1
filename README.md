@@ -20,7 +20,7 @@ Welcome to our User Registration System.This system provides a secure and user-f
 
 # 2. Technology Stack
 <img src="https://miro.medium.com/v2/resize:fit:5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg" height="200px" width="400px">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1Xrt_R6FKvCqDRYXWm0aY9&ust=1698598411270000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiIvamamYIDFQAAAAAdAAAAABAD" heigth="200px" width="300px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" heigth="200px" width="300px">
 
 
 
