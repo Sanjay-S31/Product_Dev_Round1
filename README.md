@@ -2,8 +2,7 @@
 <h3>Authors:Sanjay,Senthil,Shriram</h3>
 <h3>Date: October 27, 2023 </h3>
 
-# Table of Contents
-# -----------------
+# <u>Table of Contents</u>
 <p>1.Introduction</p>
 <p>2.Technology Stack</p>
 <p>3.Project Structure</p>
