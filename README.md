@@ -5,24 +5,15 @@
 # <u>Table of Contents</u>
 1.Introduction<br>
 2.Technology Stack<br>
-3.Project Structure
-4.Functionality
-5.User Experience(Screenshots)
-6.Security
-7.Installation
-8.Usability
-9.Video Demonstration
-10.Database Schema
-<p>1.Introduction</p>
-<p>2.Technology Stack</p>
-<p>3.Project Structure</p>
-<p>4.Functionality</p>
-<p>5.User Experience(Screenshots)</p>
-<p>6.Security</p>
-<p>7.Installation</p>
-<p>8.Usability</p>
-<p>9.Video Demonstration</p>
-<p>10.Database Schema</p>
+3.Project Structure<br>
+4.Functionality<br>
+5.User Experience(Screenshots)<br>
+6.Security<br>
+7.Installation<br>
+8.Usability<br>
+9.Video Demonstration<br>
+10.Database Schema<br>
+
 
 # 1. Introduction
 # ---------------
