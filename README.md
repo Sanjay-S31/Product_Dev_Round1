@@ -3,6 +3,16 @@
 <h3>Date: October 27, 2023 </h3>
 
 # <u>Table of Contents</u>
+1.Introduction
+2.Technology Stack
+3.Project Structure
+4.Functionality
+5.User Experience(Screenshots)
+6.Security
+7.Installation
+8.Usability
+9.Video Demonstration
+10.Database Schema
 <p>1.Introduction</p>
 <p>2.Technology Stack</p>
 <p>3.Project Structure</p>
